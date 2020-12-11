@@ -37,7 +37,8 @@ If this code benefits your research please cite:
 &nbsp;&nbsp;booktitle={Neurocomputing},\
 &nbsp;&nbsp;year={2020},\
 &nbsp;&nbsp;organization={Elsevier}\
-&nbsp;&nbsp;DOI={https://doi.org/10.1016/j.neucom.2020.10.075}
+&nbsp;&nbsp;DOI={https://doi.org/10.1016/j.neucom.2020.10.075
+}
 }
 
 # p.s.
